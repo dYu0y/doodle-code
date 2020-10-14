@@ -3,8 +3,8 @@
 
 實際遊玩畫面(圖一為高中時的截圖，圖二為2020年9越多的截圖)
 
-圖一
+圖一  
 ![](https://i.imgur.com/GHn2Ysr.png)
 
-圖二
+圖二  
 ![](https://i.imgur.com/IScF49X.png)
